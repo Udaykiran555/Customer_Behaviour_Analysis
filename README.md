@@ -9,7 +9,6 @@ It demonstrates the complete **data analytics lifecycle** — from data loading 
 
 ## 📊 Dataset
 - **Name:** Customer Behaviour Dataset  
-- **Source:** (Specify the source, e.g., Kaggle / company dataset / collected manually)
 - **Description:** The dataset contains demographic details, purchase patterns, and engagement metrics of customers.  
 - **Key Columns:** Customer_ID, Gender, Age, Income, Purchase_Frequency, Product_Category, Total_Spending, etc.  
 
